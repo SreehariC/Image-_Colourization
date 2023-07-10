@@ -7,5 +7,5 @@ Try out the deployed model here :[ https://huggingface.co/spaces/SMD00/Image_Col
 
 Some of the results: 
 
-<img src="https://github.com/SreehariC/Image-_Colourization/blob/main/image-colorization-demo-img.png" >
 
+![image-colorization-demo-img](https://github.com/SreehariC/Image-_Colourization/assets/95119050/2240f8cd-2edb-4780-8723-9021f89bd091)
